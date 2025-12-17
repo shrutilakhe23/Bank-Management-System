@@ -8,7 +8,7 @@ class MainBank
 {
 	public static void main(String[] args) throws IOException
 	{
-		System.out.println("		'Welcome to Bank Managemnet Project'	");
+		System.out.println("		'Welcome to Bank Managemnet System'	");
 		Main b1 = new Main();
 		while(b1.noOfChoices)
 		{
@@ -359,4 +359,5 @@ class Main
 	
 	
 }
+
 
